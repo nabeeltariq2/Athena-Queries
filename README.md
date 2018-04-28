@@ -2,7 +2,7 @@
 AWS Athena and other Query Examples
 
 
-One of the most complicated queries i had to write was for my capstone project. It involved 3 tables, calls, customer and web tracks. I had to :
+One of the most complicated queries i had to write was for an academic project. It involved 3 tables, calls, customer and web tracks. I had to :
 -combine all 3
 -find the number of web tracks before each call
 -find the number of call interactions against each customer
